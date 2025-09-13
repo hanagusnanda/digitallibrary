@@ -11,7 +11,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 4. [Ilmu Hukum Suatu Pengantar](ebook/Buku Pengantar Ilmu Hukum.pdf) - Yapiter Marpi (2020)
 5. [Teori Ekonomi](ebook/Buku Teori Ekonomi.pdf) - Priyono Zaenudin Ismail (2012)
 6. [Teori Hukum Pancasila](ebook/Buku Teori Hukum Pancasila.pdf) - Abdul Aziz Nasihuddin (2024)
-7. [Digital Library Fundamentals](ebook/Digital Library Fundamentals With GitHub.pdf) - Athanasia (2025)
+7. [Resume Kuliah Tamu](ebook/Hana Aulia Gusnanda 149 Resume Kuliah Tamu.pdf) - Hana Aulia Gusnanda (2025)
 8. [Pengantar Antropologi Agama](ebook/Pengantar Antropologi Agama.pdf) - Husnul Qodim (2021)
 9. [Pengantar Hukum Indonesia](ebook/Pengantar Hukum Indonesia.pdf) - Rahman Syamsuddin (2019)
 10. [Pengantar Umum Psikologi](ebook/Pengantar Psikologi Umum.pdf) - Kandi (2023)
