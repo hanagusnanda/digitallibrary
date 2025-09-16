@@ -18,5 +18,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 11. Contoh buku lain
 
 ---
-
+[halaman1.html](webti/halaman1.html)
 *powered by GitHub Pages*
